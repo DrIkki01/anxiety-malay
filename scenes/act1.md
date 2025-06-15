@@ -430,7 +430,7 @@ h: Tapi…saya dapat jemputan?
 
 b: Oh kalau macam tu!
 
-[Terima. Atahu kita akan mati disebabkan kesunyian!](#act1c_loner)
+[Terima. Atau kita akan mati disebabkan kesunyian!](#act1c_loner)
 
 [Tolak. Parti tu penuh dengan dadah!](#act1c_drugs)
 
@@ -1341,15 +1341,15 @@ h: aku dah tak tahan dengan semua ni.
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 h:
-{{if _.fifteencigs}}"loneliness will kill us"... {{/if}}
-{{if _.parasite}}"we're a society-parasite"... {{/if}}
-{{if _.whitebread}}"don't eat that, it'll kill us"... {{/if}}
-{{if _.subtweet}}"they're talking behind our back"... {{/if}}
-{{if _.badnews}}"the world is burning"... {{/if}}
-{{if _.hookuphole}}"we'll die alone"... {{/if}}
-{{if _.serialkiller}}"they're a serial killer"... {{/if}}
-{{if _.catmilk}}"cats can't digest milk"... {{/if}}
-{{if _.pokemon}}a ^crappy^ parody song... {{/if}}
+{{if _.fifteencigs}}"kesunyian boleh membunuh kita"... {{/if}}
+{{if _.parasite}}"kita menjadi sampah masyarakat"... {{/if}}
+{{if _.whitebread}}"jangan makan itu ini"... {{/if}}
+{{if _.subtweet}}"mereka mengutuk kita"... {{/if}}
+{{if _.badnews}}"dunia tengah terbakar"... {{/if}}
+{{if _.hookuphole}}"kita akan mati keseorangan"... {{/if}}
+{{if _.serialkiller}}"mereka pembunuh bersiri"... {{/if}}
+{{if _.catmilk}}"kucing tak boleh hadam susu"... {{/if}}
+{{if _.pokemon}}lagu parodi pokemon... {{/if}}
 
 h: aku nak hidup cara aku.
 

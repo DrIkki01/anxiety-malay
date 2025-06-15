@@ -766,7 +766,7 @@ b: SUUUUKAA. SUUUUUUUKAAA.
 
 `bb({body:"scream_a_1"})`
 
-b: Lepas itu mereka akan MENGHANTUI KAU SAMPAI KAU JADI GILA dan/atahu JADI YANG ORANG TIDAK BETUL!
+b: Lepas itu mereka akan MENGHANTUI KAU SAMPAI KAU JADI GILA dan atau JADI YANG ORANG TIDAK BETUL!
 
 `_.a2_attack_3 = "bad";`
 
