@@ -57,7 +57,7 @@ r: Aku gembira boleh bantu kau bunuh binatang tu sepertimana aku menghapuskannya
 publish("act3",["roofhunter",2]);
 ```
 
-r: Soalan cepumas: kebenaran atahu cabar–
+r: Soalan cepumas: kebenaran atau cabar–
 
 ```
 publish("act3",["roofhunter",3]);
@@ -370,7 +370,7 @@ h: Ada yang sibukkan diri dengan kerja.
 
 `hong({ body:"look_down", eyes:"look_down" });`
 
-h: Ada yang sibukkan diri dengan hubungan intim, dadah atahu menghabiskan masa di Facebook.
+h: Ada yang sibukkan diri dengan hubungan intim, dadah atau menghabiskan masa di Facebook.
 
 `hong({ body:"normal", eyes:"look_right" });`
 

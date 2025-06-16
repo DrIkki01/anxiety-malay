@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ish! Mereka tak boleh Google untuk sahkan sama ada fakta itu betul atahu tidak ke?
+s: Ish! Mereka tak boleh Google untuk sahkan sama ada fakta itu betul atau tidak ke?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -818,11 +818,11 @@ b: KITA TAK AKAN PERASAN PUN KALAU KEMATIAN MENANTI KITA. KEHIDUPAN KITA AKAN TA
 
 `bb({body:"normal", mouth:"normal", eyes:"sad"})`
 
-b: Macam mana kalau kita *tidak mampu langsung* untuk disayangi atahu menyayangi seseorang?
+b: Macam mana kalau kita *tidak mampu langsung* untuk disayangi atau menyayangi seseorang?
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: Macam mana kalau sesuatu telah menyakitkan hati kita suatu masa dahulu? Atahu sebenarnya sesuatu itu tidak pernah wujud pun dalam diri kita?
+b: Macam mana kalau sesuatu telah menyakitkan hati kita suatu masa dahulu? Atau sebenarnya sesuatu itu tidak pernah wujud pun dalam diri kita?
 
 `bb({body:"scream_a_1"})`
 
@@ -1005,7 +1005,7 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Orang Asli Amerika adalah *manusia* dan bukannya “noble savages” atahu “orang primitif” untuk buatkan kau punya nasihat biskut nasib lebih *unik*.
+b: Orang Asli Amerika adalah *manusia* dan bukannya “noble savages” atau “orang primitif” untuk buatkan kau punya nasihat biskut nasib lebih *unik*.
 
 `bb({eyes:"suspect_r"})`
 
@@ -1186,7 +1186,7 @@ b: ...Aku cuba.
 
 `bb({body:"cry_6", mouth:"right", eyes:"cry_r_1"});`
 
-b: Kau tak perlu hiraukan amaran atahu setuju dengan aku. Kau tak perlu *suka* aku pun.
+b: Kau tak perlu hiraukan amaran atau setuju dengan aku. Kau tak perlu *suka* aku pun.
 
 `bb({eyes:"cry_r_2"});`
 
@@ -1232,7 +1232,7 @@ publish("act2",["party_hunter",4]);
 publish("act2",["party_hong",14]);
 ```
 
-r: Hm, kau macam menggumam sesuatu pada baju kau pasal {{_.a2_hoodie_callback}} atahu..?
+r: Hm, kau macam menggumam sesuatu pada baju kau pasal {{_.a2_hoodie_callback}} atau..?
 
 ```
 publish("act2",["party_hunter",13]);

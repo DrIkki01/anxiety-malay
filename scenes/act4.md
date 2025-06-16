@@ -389,7 +389,7 @@ b: Aku hanyalah anjing jalanan yang teraniaya.
 
 `bb({eyes:"sad"})`
 
-b: Kita dah lalui pelbagai rintangan bersama. Seperti trauma atahu pengabaian…mungkin sebab itulah aku bersikap keterlaluan dan berleter:
+b: Kita dah lalui pelbagai rintangan bersama. Seperti trauma atau pengabaian…mungkin sebab itulah aku bersikap keterlaluan dan berleter:
 
 ```
 sfx("yaps", {volume:0.6});
@@ -501,7 +501,7 @@ bb({ body:"normal", eyes:"normal" });
 hong({ body:"one_up", eyes:"surprise" });
 ```
 
-h: Mungkin kita boleh belajar seni mempertahankan diri atahu sertai komuniti yang saling melindungi? Kalau tak, mungkin kita boleh tingkatkan kesihatan diri dan menjaga batas peribadi?
+h: Mungkin kita boleh belajar seni mempertahankan diri atau sertai komuniti yang saling melindungi? Kalau tak, mungkin kita boleh tingkatkan kesihatan diri dan menjaga batas peribadi?
 
 ```
 bb({ eyes:"annoyed_r" });
@@ -648,7 +648,7 @@ h: Teknik ni dinamakan terapi pendedahan!
 
 `hong({ body:"point", eyes:"normal" });`
 
-h: Memandangkan kau seekor anjing, sepatutnya teknik ini berguna lah kan? Semua mamalia ada respons lari atahu lawan yang sama.
+h: Memandangkan kau seekor anjing, sepatutnya teknik ini berguna lah kan? Semua mamalia ada respons lari atau lawan yang sama.
 
 `hong({ body:"normal" });`
 
@@ -891,7 +891,7 @@ h: Kita boleh asah kemahiran bertanya soalan, mendengar serta memahami, bersikap
 
 `hong({ eyes:"normal_l" });`
 
-h: Atau perbaiki kehidupan sosial kita dengan meluangkan masa bersama rakan atahu menghadiri sebarang perjumpaan?
+h: Atau perbaiki kehidupan sosial kita dengan meluangkan masa bersama rakan atau menghadiri sebarang perjumpaan?
 
 `hong({ body:"one_up" });`
 
@@ -899,7 +899,7 @@ h: Kita juga boleh belajar untuk menerima penolakan.
 
 `hong({ eyes:"normal" });`
 
-h: Atau tak bersangka buruk kerana kemungkinan mereka cuma penat atahu muka mereka garang.
+h: Atau tak bersangka buruk kerana kemungkinan mereka cuma penat atau muka mereka garang.
 
 ```
 hong({ body:"normal" });
@@ -1012,7 +1012,7 @@ h: Apa-apa pun, kita boleh cuba!
 
 `hong({ body:"chin" });`
 
-h: Kita boleh ajak kawan untuk lepak, hubungi rakan lama atahu berbual dengan barista.
+h: Kita boleh ajak kawan untuk lepak, hubungi rakan lama atau berbual dengan barista.
 
 `hong({ body:"normal" });`
 
@@ -1196,7 +1196,7 @@ h: Kita boleh perlahan-lahan mengamalkan tabiat baru yang lebih baik yang selari
 
 `hong({body:"one_up"});`
 
-h: dan jika perlu, kita boleh dapatkan bantuan pakar terapi atahu kaunselor.
+h: dan jika perlu, kita boleh dapatkan bantuan pakar terapi atau kaunselor.
 
 `hong({body:"normal"});`
 
@@ -1314,11 +1314,11 @@ h: Dan sangat menyedihkan yang ramai orang tak mampu untuk mendapatkan rawatan k
 
 `hong({ eyes:"normal", mouth:"normal" });`
 
-h: Tapi, kita masih ada pilihan lain yang murah atahu percuma:
+h: Tapi, kita masih ada pilihan lain yang murah atau percuma:
 
 `hong({ body:"chin" })`
 
-h: Kumpulan sokongan, terapi dalam talian, pusat kesihatan pelajar atahu badan bukan berasaskan keuntungan…
+h: Kumpulan sokongan, terapi dalam talian, pusat kesihatan pelajar atau badan bukan berasaskan keuntungan…
 
 `hong({ body:"hands_1" })`
 
@@ -1463,7 +1463,7 @@ b: *Masalah* sebenarnya ialah aku nak bantu kau, tapi aku tak tahu nak cakap mac
 
 `bb({ eyes:"sad", body:"normal" });`
 
-h: Aku rasa pakar terapi maksudkan “menerima” emosi seperti jangan lawan atahu abaikan emosi itu.
+h: Aku rasa pakar terapi maksudkan “menerima” emosi seperti jangan lawan atau abaikan emosi itu.
 
 `hong({ eyes:"surprise", body:"one_up" });`
 

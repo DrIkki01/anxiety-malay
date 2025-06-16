@@ -912,7 +912,7 @@ h: Mungkin aku tak patut tolak jemputan tu?
 
 b: Semua orang mengharapkan kita!
 
-b: …untuk meninggalkan mereka dan biar mereka menikmati parti tu tanpa makhluk menjijikkan {{if _.whitebread}}white-bread-munching{{/if}} macam kit-
+b: …untuk meninggalkan mereka dan biar mereka menikmati parti tu tanpa makhluk menjijikkan {{if _.whitebread}}white-bread-munching{{/if}}macam kit-
 
 
 ```
