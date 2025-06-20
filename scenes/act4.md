@@ -224,14 +224,14 @@ h: Kita *belajar* apa je? Aku buat perkara bodoh. Bukan setakat dipergunakan ole
 `hong({body:"normal", eyes:"normal"})`
 
 {{if _.INJURED}}
-[Ya, apatah lagi bil hospital](#act4a_bill)
+[Ya, dengan bil hospital lagi, hm.](#act4a_bill)
 {{/if}}
 
 {{if !_.INJURED}}
-[Ya, apatah lagi kerosakan hati.](#act4a_liver)
+[Ya, dengan kerosakan hati lagi, hm.](#act4a_liver)
 {{/if}}
 
-[Ya, itu adalah kemungkinan paling teruk.](#act4a_worst)
+[Ya, tu adalah kemungkinan paling teruk.](#act4a_worst)
 
 [Ya, aku betul.](#act4a_right)
 
@@ -243,7 +243,7 @@ h: Oh ya, aku rasa pelan insurans tak termasuk *perbuatan bodoh* aku.
 
 `hong({eyes:"annoyed", mouth:"normal"});`
 
-b: Namun…kita terselamat!
+b: Tapi…kita terselamat!
 
 `hong({eyes:"normal"});`
 
@@ -274,7 +274,7 @@ h: ?
 
 `bb({eyes:"normal_d"});`
 
-b: Namun…
+b: Tapi…
 
 h: Ha?
 
@@ -328,7 +328,7 @@ hong({eyes:"normal"});
 bb({eyes:"annoyed_d", mouth:"narrow"});
 ```
 
-b: Kejadian itu membuatkan semua benda lain kurang menakutkan. Ia juga membuatkan aku terfikir.
+b: Kejadian tu membuatkan semua benda lain kurang menakutkan. Ia juga membuatkan aku terfikir.
 
 `bb({eyes:"normal", mouth:"normal"});`
 
@@ -342,7 +342,7 @@ b: Jadi, mungkin…
 
 `bb({eyes:"normal"})`
 
-h: Mungkin kita tidak perlu bergaduh.
+h: Mungkin kita tak perlu bergaduh.
 
 ```
 Game.FORCE_CANT_SKIP = true;
@@ -422,7 +422,7 @@ h: Aku…boleh cuba.
 
 `hong({eyes:"normal_l", body:"chin", mouth:"narrow"})`
 
-h: Baiklah. Hubungan yang sihat dengan emosi itu penting. Setiap hubungan memerlukan komunikasi. Jadi, mari kita berkomunikasi.
+h: Baiklah. Hubungan yang sihat dengan emosi tu penting. Setiap hubungan memerlukan komunikasi. Jadi, mari kita berkomunikasi.
 
 `hong({eyes:"normal", body:"hands_1", mouth:"normal"})`
 
@@ -432,7 +432,7 @@ h: Lima minit selepas ni mungkin akan berasa sangat janggal tapi kita cuba perla
 hong({body:"hands_2", mouth:"normal"});
 ```
 
-h: Wahai Sang Serigala…apakah perasaan *kau*?
+h: Wahai Sang Serigala…apa perasaan *kau* sekarang?
 
 n2: JUMLAH KETAKUTAN DIGUNAKAN:
 
@@ -508,7 +508,7 @@ bb({ eyes:"annoyed_r" });
 hong({ body:"normal", eyes:"normal" });
 ```
 
-b: Mungkin lah, tapi…
+b: Mungkinlah, tapi…
 
 [Macam mana kita nak mula?](#act4_harm_skills_start)
 
@@ -520,11 +520,11 @@ b: Mungkin lah, tapi…
 
 `bb({ eyes:"sad_d" })`
 
-b: Terlalu banyak perkara yang kita perlu dilakukan untuk perbaiki diri. Kita nak *mula* dari mana?
+b: Terlalu banyak perkara yang kita perlu lakukan untuk perbaiki diri. Kita nak *mula* dari mana?
 
 `hong({ body:"shrug", eyes:"surprise" })`
 
-h: Kita dah mula la ni.
+h: Kita dah mulalah ni.
 
 `bb({ eyes:"normal", mouth:"narrow" })`
 
@@ -543,11 +543,11 @@ h: Dan *itu* akan lindungi diri kita dari ancaman bahaya!
 
 `hong({ eyes:"normal", mouth:"normal" });`
 
-h: Oleh itu, ini memang *betul* latihan mempertahankan diri.
+h: Oleh itu, ni memang *betul* latihan mempertahankan diri.
 
 `bb({ eyes:"normal_r" })`
 
-b: Oh, sebenarnya aku mengharapkan lebih dari ini:
+b: Oh, sebenarnya aku mengharapkan lebih dari ni:
 
 ```
 Game.FORCE_CANT_SKIP = true;
@@ -586,7 +586,7 @@ h: Ya. Walaupun sedikit, 1% air tu masih bermakna jika kita sudah lama kehausan.
 
 `bb({ eyes:"closed" });`
 
-b: Baiklah, minum la kesemuanya.
+b: Baiklah, minumlah kesemuanya.
 
 (#act4_something_else)
 
@@ -633,11 +633,11 @@ h: Okey. Contohnya, ada anjing yang takut akan bunyi guruh.
 
 `hong({ body:"hands_1" });`
 
-h: Satu teknik pelatih guna adalah memainkan rakaman bunyi guruh secara perlahan. Kemudian, snek akan diberikan jika anjing itu kekal tenang.
+h: Satu teknik pelatih guna adalah memainkan rakaman bunyi guruh secara perlahan. Kemudian, snek akan diberikan jika anjing tu kekal tenang.
 
 `hong({ body:"hands_2" });`
 
-h: Pelatih akan menguatkan bunyi sedikit demi sedikit selama beberapa hari sehingga anjing itu dapat mengatasi ketakutannya.
+h: Pelatih akan menguatkan bunyi sedikit demi sedikit selama beberapa hari sehingga anjing tu dapat mengatasi ketakutannya.
 
 ```
 hong({ body:"normal", eyes:"surprise" });
@@ -648,7 +648,7 @@ h: Teknik ni dinamakan terapi pendedahan!
 
 `hong({ body:"point", eyes:"normal" });`
 
-h: Memandangkan kau seekor anjing, sepatutnya teknik ini berguna lah kan? Semua mamalia ada respons lari atau lawan yang sama.
+h: Memandangkan kau seekor anjing, sepatutnya teknik ni bergunalah kan? Semua mamalia ada respons lari atau lawan yang sama.
 
 `hong({ body:"normal" });`
 
@@ -688,7 +688,7 @@ b: Jangan sampai kita menikmati snek sambil menonton video pembunuhan kejam!
 
 `hong({ eyes:"annoyed" })`
 
-h: Macam berbeza la situasi ni dengan situasi guruh tadi.
+h: Macam berbezalah situasi ni dengan situasi guruh tadi.
 
 `bb({ body:"normal", mouth:"normal", eyes:"suspect" })`
 
@@ -700,7 +700,7 @@ h: Tak tahu. Tapi *kau* boleh tolong aku!
 
 `hong({ eyes:"normal", body:"normal" })`
 
-h: Saling bekerjasama dan bertolak ansur, kita akan tentukan batas itu.
+h: Saling bekerjasama dan bertolak ansur, kita akan tentukan batas tu.
 
 `bb({ body:"paw", mouth:"narrow", eyes:"closed" })`
 
@@ -780,7 +780,7 @@ h: Kau okey?
 
 `bb({ eyes:"super_sad", mouth:"narrow" });`
 
-b: Kau tak pernah ucap *terima kasih* kepada aku sebelum ini.
+b: Kau tak pernah ucap *terima kasih* kepada aku sebelum ni.
 
 `hong({ mouth:"smile" });`
 
@@ -801,7 +801,7 @@ bb({ eyes:"normal" });
 hong({ eyes:"annoyed", body:"chin" });
 ```
 
-h: Topik ini rumit dan bukannya aku sentiasa ada jawapan kepada setiap soalan.
+h: Topik ni rumit dan bukannya aku sentiasa ada jawapan kepada setiap soalan.
 
 `hong({ eyes:"annoyed_l", body:"one_up" })`
 
@@ -852,7 +852,7 @@ _.a4_fears_discussed += 1;
 
 `bb({ eyes:"sad_d" });`
 
-b: Aku hanya mahu memastikan kau tidak dipinggirkan…
+b: Aku hanya mahu memastikan kau tak dipinggirkan…
 
 `bb({ eyes:"sad_u" });`
 
@@ -874,7 +874,7 @@ b: Apa dalam fikiran kau, manusia?
 
 `Game.OVERRIDE_CHOICE_SPEAKER = "h"`
 
-[Aku setuju, mari memperbaik kehidupan sosial kita.](#act4_alone_skills)
+[Aku setuju, mari memperbaiki kehidupan sosial kita.](#act4_alone_skills)
 
 [Aku rasa mereka tak benci kita. Jom kita siasat.](#act4_alone_experiment)
 
@@ -908,9 +908,9 @@ bb({ eyes:"annoyed_r" });
 
 b: Banyak betul pilihan. Tapi, mengenai "belajar tentang kemahiran sosial"...
 
-[Itu satu bentuk *manipulasi* kan?](#act4_alone_skills_manipulative)
+[Tu satu bentuk *manipulasi* kan?](#act4_alone_skills_manipulative)
 
-[Itu akan membuatkan kita *lebih mudah dimanipulasi* kan?](#act4_alone_skills_manipulated)
+[Tu akan membuatkan kita *lebih mudah dimanipulasi* kan?](#act4_alone_skills_manipulated)
 
 [Macam mana kalau kita masih gagal?](#act4_alone_skills_fail)
 
@@ -928,19 +928,19 @@ b: Seperti Charles Manson. Dia ada ramai kawan dan mudah mempengaruhi orang lain
 
 h: Betul juga.
 
-h: "Kemahiran bersosial" tak bermakna kalau kita tak mengambil berat *tentang* orang lain.
+h: "Kemahiran bersosial" jadi tak bermakna kalau kita tak mengambil berat *tentang* orang lain.
 
 `hong({ body:"normal" });`
 
-h: Senang cerita, jadi lah orang baik.
+h: Senang cerita, jadilah orang baik.
 
 `bb({ eyes:"annoyed", mouth:"smile" });`
 
-b: Itu kata-kata motivasi yang sesuai diletakkan dalam poster.
+b: Tu kata-kata motivasi yang sesuai diletakkan dalam poster.
 
 `hong({ body:"shrug", mouth:"narrow" });`
 
-h: "Jadi Lah Orang Baik™"
+h: "Jadilah Orang Baik™"
 
 (#act4_something_else)
 
@@ -993,11 +993,11 @@ h: Jadi, jom kita belajar daripada kesilapan bersama!
 
 `bb({ eyes:"normal_r" });`
 
-b: Lagi pun kalau sesuatu yang buruk berlaku, kita boleh pindah dan buat identiti baharu.
+b: Lagipun kalau sesuatu yang buruk berlaku, kita boleh pindah dan buat identiti baharu.
 
 `bb({ eyes:"normal" });`
 
-h: Ya, macam lah senang sangat nak buat semua itu.
+h: Ya, macamlah senang sangat nak buat semua tu.
 
 (#act4_something_else)
 
@@ -1016,13 +1016,13 @@ h: Kita boleh ajak kawan untuk lepak, hubungi rakan lama atau berbual dengan bar
 
 `hong({ body:"normal" });`
 
-h: Mungkin diri kita tidak seteruk yang kita sangkakan.
+h:  Mungkin diri kita tak seteruk yang kita sangkakan.
 
 `bb({ eyes:"annoyed" });`
 
-[Bayangkan kalau semua ini hanya “kemenangan” yang tak bermakna?](#act4_alone_experiment_cheap)
+[Bayangkan kalau semua ni hanya “kemenangan” yang tak bermakna?](#act4_alone_experiment_cheap)
 
-[Bayangkan kalau ini membebankan orang lain?](#act4_alone_experiment_burden)
+[Bayangkan kalau ni membebankan orang lain?](#act4_alone_experiment_burden)
 
 [Tapi perbualan kosong bukanlah *cara* kita!+](#act4_alone_experiment_real_us)
 
@@ -1125,7 +1125,7 @@ h: Sekurang-kurangnya kita tahu!
 
 `hong({ eyes:"normal" });`
 
-h: Dengan ini, kita boleh belajar untuk tidak melampaui batas sehingga membuat mereka tak selesa.
+h: Dengan ini, kita boleh belajar untuk tak melampaui batas sehingga membuat mereka tak selesa.
 
 ```
 hong({ eyes:"annoyed_l", mouth:"narrow" });
@@ -1181,7 +1181,7 @@ b: Apa dalam fikiran kau, manusia?
 
 [Kita dah hancur. Mari kita perbaiki diri.](#act4_bad_fix)
 
-[Kita dah hancur. Terima je la hakikatnya.](#act4_bad_accept)
+[Kita dah hancur. Terima jelah hakikatnya.](#act4_bad_accept)
 
 [Terima kasih.](#act4_thanks) `_.thanks_for = "moral well-being";`
 
@@ -1229,7 +1229,7 @@ bb({mouth:"normal", eyes:"annoyed"});
 hong({eyes:"sad", mouth:"smile"});
 ```
 
-h: Dengan masa parut boleh pudar, tapi bekasnya tak akan hilang. Dan itu bukanlah satu masalah.
+h: Dengan masa, parut boleh pudar, tapi bekasnya tak akan hilang. Dan tu bukanlah satu masalah.
 
 `bb({eyes:"annoyed_r"});`
 
@@ -1259,19 +1259,19 @@ h: Tolong jangan mengarut.
 
 `bb({ eyes:"angry_d" })`
 
-b: Bunyi macam pelik, tapi… sebahagian daripada aku *inginkan* penyakit ini.
+b: Bunyi macam pelik, tapi… sebahagian daripada aku *inginkan* penyakit ni.
 
 `bb({ eyes:"angry" })`
 
-b: Maksud aku, tanpa penyakit ni mungkin hidup kita akan jadi *bosan*.
+b:  Maksud aku, tanpa penyakit ni mungkin hidup kita akan jadi *bosan*.
 
 `bb({ eyes:"sad_r", body:"one_up" })`
 
-b: Tanpa penyakit ini, hasil seni kita menjadi hambar dan membosankan.
+b: Tanpa penyakit ni, hasil seni kita menjadi hambar dan membosankan.
 
 `bb({ eyes:"sad_u", body:"two_up" })`
 
-b: Tanpa penyakit ini, mungkin kita tak akan memahami kawan-kawan yang menghidapi penyakit yang sama.
+b: Tanpa penyakit ni, mungkin kita tak akan memahami kawan-kawan yang menghidapi penyakit yang sama.
 
 `bb({ eyes:"sad", body:"chest" })`
 
@@ -1295,18 +1295,18 @@ b: Oh! Ya, betul! Fuh, lega!
 
 `bb({ body:"one_up", eyes:"sexy", mouth:"normal" })`
 
-b: “Doktor, saya resah sebab saya dicas $100 sejam hanya untuk dengar soalan *apa perasaan awak selepas menghadapi situasi itu?*”
+b: “Doktor, saya resah sebab saya dicas $100 sejam hanya untuk dengar soalan *apa perasaan awak selepas menghadapi situasi tu?*”
 
 `bb({ body:"paw", eyes:"closed", mouth:"narrow" })`
 
-b: “Hmm. Apa perasaan awak selepas menghadapi situasi itu?”
+b:  “Hmm. Apa perasaan awak selepas menghadapi situasi tu?”
 
 ```
 bb({ body:"normal", eyes:"normal", mouth:"normal" });
 hong({ eyes:"sad" });
 ```
 
-h: Itu memang patut dirisaukan.
+h: Tu memang patut dirisaukan.
 
 `hong({ eyes:"annoyed", mouth:"sad" });`
 
@@ -1330,7 +1330,7 @@ h: Meminjam buku berkaitan terapi psikologi.
 
 `hong({ body:"one_up" })`
 
-h: Ada senarai bantuan penyakit mental di akhir permainan ini!
+h: Ada senarai bantuan penyakit mental di akhir permainan ni!
 
 ```
 hong({ body:"normal" });
@@ -1353,7 +1353,7 @@ bb({ eyes:"normal" });
 hong({ eyes:"normal_l", body:"one_up", mouth:"narrow" });
 ```
 
-h: Lagipun, bukankah itu yang selalu pakar terapi katakan? Terima semua emosi kita termasuklah yang negatif?
+h: Lagipun, bukankah tu yang selalu pakar terapi katakan? Terima semua emosi kita termasuklah yang negatif?
 
 ```
 bb({ eyes:"annoyed" });
@@ -1380,7 +1380,7 @@ b: Kenapa Industri Usaha Diri menganggap bahawa mengangkat bendera putih tu *ide
 
 `bb({ eyes:"annoyed", body:"normal" });`
 
-h: Aku rasa pakar terapi maksudkan “menerima” perkara buruk itu seperti mengakui benda itu wujud dan sukar untuk diubah,
+h:  Aku rasa pakar terapi maksudkan “menerima” perkara buruk tu seperti mengakui benda tu wujud dan sukar untuk diubah,
 
 h: tapi, tak bermakna kita kena berputus asa untuk berubah.
 
@@ -1426,11 +1426,11 @@ h: Sama konsepnya kalau kau terjerumus dalam pasir jerlus. Kalau kau panik, kau 
 `hong({ eyes:"surprise" });`
 
 {{if _.INJURED}}
-h: Bergaduh kau menyebabkan aku terjun bangunan.
+h: Bergaduh dengan kau menyebabkan aku terjun bangunan.
 {{/if}}
 
 {{if !_.INJURED}}
-h: Bergaduh kau menyebabkan aku hampir terjun bangunan.
+h: Bergaduh dengan kau menyebabkan aku hampir terjun bangunan.
 {{/if}}
 
 `hong({ body:"normal", eyes:"normal" });`
@@ -1463,7 +1463,7 @@ b: *Masalah* sebenarnya ialah aku nak bantu kau, tapi aku tak tahu nak cakap mac
 
 `bb({ eyes:"sad", body:"normal" });`
 
-h: Aku rasa pakar terapi maksudkan “menerima” emosi seperti jangan lawan atau abaikan emosi itu.
+h: : Aku rasa pakar terapi maksudkan “menerima” emosi seperti jangan lawan atau abaikan emosi tu.
 
 `hong({ eyes:"surprise", body:"one_up" });`
 
@@ -1516,7 +1516,7 @@ h: Ada apa-apa lagi yang terbuku dalam hati kau?
 [Aku takut kita sebenarnya orang jahat.](#act4_bad)
 {{/if}}
 
-[Tiada, itu sahaja buat masa sekarang.](#act4c_prelude)
+[Tiada, tu sahaja buat masa sekarang.](#act4c_prelude)
 
 # act4_something_else_2
 
@@ -1553,7 +1553,7 @@ h: ...
 
 `bb({eyes:"annoyed_d"})`
 
-b: Benda ini bukannya *permainan video* tahu?
+b: Benda ni bukannya *permainan video* tahu?
 
 `bb({eyes:"angry_d", body:"one_up"})`
 
@@ -1567,7 +1567,7 @@ b: *Boleh ke* kita bekerjasama?
 
 `hong({eyes:"sad", body:"one_up"})`
 
-h: Macam ini,
+h: Macam ni,
 
 ```
 hong({eyes:"surprise_l"});
@@ -1626,7 +1626,7 @@ a: Oh t-tak apalah s-saya boleh je…
 
 `publish("act4", ["hong_to_alshire",2]);`
 
-h2: Ya, betul lah! Awak yang duduk atas sofa di parti yang pertama saya pergi tu…
+h2: Ya, betullah! Awak yang duduk atas sofa di parti yang saya pertama kali pergi tu…
 
 `publish("act4", ["hong_to_alshire",10]);`
 
@@ -1635,7 +1635,7 @@ h2: Waktu tu saya melalui serangan panik dan tumbuk muka tuan rumah.
 {{/if}}
 
 {{if _.a2_ending=="flight"}}
-h2: Waktu itu saya melalui serangan panik dan lari keluar sambil menangis.
+h2: Waktu tu saya melalui serangan panik dan lari keluar sambil menangis.
 {{/if}}
 
 ```
@@ -1709,7 +1709,7 @@ s: DIA CUMA BERLAKON! TIADA SIAPA YANG *BETUL-BETUL* NAK RAPAT DENGAN KITA!
 {{/if}}
 
 {{if _.TOP_FEAR=="bad"}}
-s: AHHH KITA SELALU BUAT ORANG RASA KEKOK! KITA IBARAT SAMPAH ATAS MUKA BUMI INI!
+s: AHHH KITA SELALU BUAT ORANG RASA KEKOK! KITA IBARAT SAMPAH ATAS MUKA BUMI NI!
 {{/if}}
 
 (#act4e)

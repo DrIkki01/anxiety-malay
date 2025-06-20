@@ -6,7 +6,7 @@ SceneSetup.act1();
 
 (...300)
 
-n: DAN ANDA ADALAH KERESAHAN MANUSIA
+n: DAN ANDA IALAH KERESAHAN MANUSIA
 
 n: _ANDA_ IALAH KERESAHAN ITU
 
@@ -28,7 +28,7 @@ h: Oh hai! Kita di sini lagi?
 
 `hong({eyes:"0_neutral"})`
 
-n: TUGAS ANDA ADALAH UNTUK MELINDUNGI MANUSIA ANDA DARI *BAHAYA*
+n: TUGAS ANDA ADALAH UNTUK MELINDUNGI MANUSIA ANDA DARIPADA *BAHAYA*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
@@ -42,7 +42,7 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Manusia! Dengar sini, kita dalam bahaya! Pemain itu…
+b: Manusia! Dengar sini, kita dalam bahaya! Pemain tu…
 
 [...akan seksa kita lagi!](#act1_replay_torture)
 
@@ -67,11 +67,11 @@ b: Mereka paksa kita hancurkan telefon kerana menjadi punca serangan panik kau!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: Mereka akan paksa kita untuk *TIDAK* memukul tuan rumah!
+b: Mereka akan paksa kita untuk *TAK* memukul tuan rumah!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: Mereka akan paksa kita pukul tuan rumah yang jahat tapi berhati mulia itu!
+b: Mereka akan paksa kita pukul tuan rumah yang jahat tapi berhati mulia tu!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
@@ -100,7 +100,7 @@ h: Betul, jalan cerita *keseluruhannya* adalah sama, tapi setiap bab ada dua pen
 
 `bb({body:"fear"});`
 
-b: Pemain akan kecewa, tutup permainan ini, padamkan perisian, kemudian kita akan--
+b: Pemain akan kecewa, tutup permainan ni, padamkan perisian, kemudian kita akan--
 
 (#act1_replay_end)
 
@@ -116,19 +116,19 @@ h: Apa benda lucah pula ni?
 
 `bb({eyes:"normal"});`
 
-b: Jalan cerita ini sebenarnya tentang bagaimana kau boleh *PILIH* untuk bekerjasama dengan rasa takut kau,
+b: Jalan cerita ni sebenarnya tentang bagaimana kau boleh *PILIH* untuk bekerjasama dengan rasa takut kau,
 
 `bb({eyes:"normal_right"});`
 
-b: Tapi apabila permainan ini dimainkan semula, jalan cerita tetap sama, seolah-olah *PILIHAN* kau tak ada makna,
+b: Tapi apabila permainan ni dimainkan semula, jalan cerita tetap sama, seolah-olah *PILIHAN* kau tak ada makna,
 
 `bb({eyes:"narrow_eyebrow"});`
 
-b: Jadi, ia menunjukkan percanggahan antara mesej game ini dan mekaniknya,
+b: Jadi, ia menunjukkan percanggahan antara mesej game ni dan mekaniknya,
 
 `bb({eyes:"fear"});`
 
-b: Dari situ, seluruh alam naratif ini mula runtuh,
+b: Dari situ, seluruh alam naratif ni mula runtuh,
 
 `bb({body:"fear"});`
 
@@ -190,11 +190,11 @@ h: Baguslah, serigala aku dah kembali. Terbaaaiikkk.
 
 `hong({eyes:"0_neutral"})`
 
-n: TUGAS ANDA ADALAH UNTUK MELINDUNGI MANUSIA ANDA DARI *BAHAYA*
+n: TUGAS ANDA ADALAH UNTUK MELINDUNGI MANUSIA ANDA DARIPADA *BAHAYA*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: MALAH, SANDWIC ITU MELETAKKAN MEREKA DALAM *BAHAYA* SEKARANG
+n: MALAH, SANDWIC TU MELETAKKAN MEREKA DALAM *BAHAYA* SEKARANG
 
 n: CEPAT, BERI MEREKA AMARAN!
 
@@ -214,11 +214,11 @@ n4: (BIARKAN_KERESAHAN_ANDA BERAKSI! PILIH JAWAPAN YANG PALING MENCERMINKAN KETA
 
 # act1_normal_choice
 
-[Kita makan tengahari seorang diri lagi!](#act1a_alone) `bb({body:"squeeze_talk"})`
+[Kita makan tengah hari seorang diri lagi!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
 [Kita tak produktif semasa makan!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
-[Roti putih itu tak elok untuk kita!](#act1a_bread) `bb({body:"squeeze_talk"})`
+[Roti putih tu tak elok untuk kita!](#act1a_bread) `bb({body:"squeeze_talk"})`
 
 # act1a_alone
 
@@ -275,7 +275,7 @@ b: Cepat buka komputer riba dan buat kerja sekarang juga!
 
 `hong({eyes:"0_annoyed"})`
 
-h: Hm, aku tak nak la serdak roti masuk celah papan kekun--
+h: Hm, aku tak naklah serdak roti masuk celah papan kekun--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
@@ -349,7 +349,7 @@ n: IA SANGAT BERKESAN!
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: Nampak tak, manusia? Aku ini serigala pengawal yang setia!
+b: Nampak tak, manusia? Aku ni serigala pengawal yang setia!
 
 `bb({body:"pride_talk"});`
 
@@ -412,7 +412,7 @@ n: PUSINGAN PERTAMA: *MULA!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"});`
 
-h: Hah. Facebook kata hujung minggu ini ada parti.
+h: Hah. Facebook kata hujung minggu ni ada parti.
 
 `bb({eyes:"uncertain"});`
 
@@ -424,13 +424,13 @@ b: Kekosongan dalaman apa yang dia cuba isi agaknya? Mesti jiwa dia kacau!
 
 `hong({eyes:"surprise"});`
 
-h: Tapi…saya dapat jemputan?
+h: Tapi…aku dapat jemputan?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
 b: Oh kalau macam tu!
 
-[Terima. Atau kita akan mati disebabkan kesunyian!](#act1c_loner)
+[Terima. Atau kita akan mati disebabkan kesunyian](#act1c_loner)
 
 [Tolak. Parti tu penuh dengan dadah!](#act1c_drugs)
 
@@ -483,7 +483,7 @@ b: Asalkan mereka tak hidang ROTI PUTIH.
 
 h: YA TUHAN. Kalau tu boleh buat kau diam, baiklah.
 
-h: Aku akan terima jemputan itu.
+h: Aku akan terima jemputan tu.
 
 {{if _.whalepoop}}
 b: Najis paus manusia! Najis paus!
@@ -528,7 +528,7 @@ b: Lagipun, tak boleh berparti. Kita kena buat kerja. Kalau tak, kita ni sampah 
 
 h: YA TUHAN. Kalau tu boleh buat kau diam, baiklah.
 
-h: Aku akan tolak jemputan itu.
+h: Aku akan tolak jemputan tu.
 
 `_.partyinvite="no"`
 
@@ -580,7 +580,7 @@ attack("18p", "bad");
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: Kalau itu boleh buat kau diam, baiklah.
+h: Kalau tu boleh buat kau diam, baiklah.
 
 h: Aku akan abaikan jemputan tu.
 
@@ -603,9 +603,9 @@ h: Apa cerita kat Twitter?
 
 `bb({eyes:"look"});`
 
-[Eh, tengok berita buruk itu!](#act1d_news)
+[Eh, tengok berita buruk tu!](#act1d_news)
 
-[Alamak, adakah ciapan itu sebenarnya tentang *kita?*](#act1d_subtweet)
+[Alamak, adakah ciapan tu sebenarnya tentang *kita?*](#act1d_subtweet)
 
 [Eh, GIF kucing minum susu!](#act1d_milk)
 
@@ -635,7 +635,7 @@ b: ...
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: Jom kita retweet cerita itu!
+b: Jom kita retweet cerita tu!
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -666,11 +666,11 @@ h: Argh, sudahlah, mari tengok Snapchat.
 
 `bb({eyes:"fear"});`
 
-b: Itu subtweet! Subtweet yang licik dan penuh makna tersembunyi!
+b: Tu subtweet! Subtweet yang licik dan penuh makna tersembunyi!
 
 `hong({eyes:"annoyed"});`
 
-h: Mungkin tidak?
+h: Mungkin tak?
 
 `bb({eyes:"narrow", mouth:"small"});`
 
@@ -1025,7 +1025,7 @@ Game.OVERRIDE_TEXT_SPEED = 1.5;
 _.factcheck = true;
 ```
 
-h: Kenapa kau macam ini?!
+h: Kenapa kau macam ni?!
 
 (#act1f)
 
@@ -1074,9 +1074,9 @@ h: Mungkin aku tak patut abaikan jemputan tu?
 
 [Abaikan je. Kita tetap si perosak parti.](#act1e_ignore_continue)
 
-[Terima je lah.](#act1e_ignore_changetoyes)
+[Terima jelah.](#act1e_ignore_changetoyes)
 
-[Tolak je lah.](#act1e_ignore_changetono)
+[Tolak jelah.](#act1e_ignore_changetono)
 
 # act1e_ignore_continue
 
@@ -1107,7 +1107,7 @@ b: Jadi anggaplah kita balas balik.
 
 h: Kau… bagi aku untuk berseronok?
 
-b: Ye lah, lagipun, kesunyian tu *boleh* membunuh kita.
+b: Yelah, lagipun, kesunyian tu *boleh* membunuh kita.
 
 `hong({eyes:"neutral", mouth:"neutral"});`
 
@@ -1178,7 +1178,7 @@ b: BAHAYA BAHAYA BAHAYA BAHAYA BAHAYA BAHAYA
 
 b: Hubungan kasual mungkin boleh mengisi masa lapang kita,
 
-b: Tapi ia takkan pernah isi kekosongan...
+b: tapi ia takkan pernah isi kekosongan...
 
 `bb({body:"point_heart", eyes:"pretty", mouth:"small"})`
 
@@ -1425,7 +1425,7 @@ bb({eyes:"wat", mouth:"small"});
 hong({body:"2_fuck"});
 ```
 
-h: *^S$AL^.*
+h: *^SIAL^.*
 
 `hong({body:"2_you"});`
 
@@ -1443,7 +1443,7 @@ b: apa?
 
 `hong({body:"phone1", eyes:"anger", mouth:"anger"});`
 
-h: Aku akan bagitahu mereka yang aku AKAN PERGI ke parti tu
+h: Aku akan beritahu mereka yang aku AKAN PERGI ke parti tu
 
 {{if _.act1g=="go"}}
 h: BUKAN sebab kau yang suruh aku pergi, tapi sebab *AKU* yang nak pergi.
@@ -1590,9 +1590,9 @@ n: PILIH GERAKAN PENGHABISAN ANDA
 
 n: *HANCURKAN MEREKA*
 
-[{LAWAN: Hancurkan telefon pintar anda!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
+[{LAWAN: Hancurkan telefon pintarnya!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{LARI: Meringkuk macam bola dan menangis!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
+[{LARI: Suruh dia meringkuk macam bola dan menangis!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1i_phone
 

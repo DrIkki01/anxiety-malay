@@ -93,7 +93,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Ya, macam tipu je. Siapa je yang akan percaya dan retweet berita itu?
+a: Ya, macam tipu je. Siapa je yang akan percaya dan retweet berita tu?
 
 ```
 publish("act2",["dum",2]);
@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ish! Mereka tak boleh Google untuk sahkan sama ada fakta itu betul atau tidak ke?
+s: Ish! Mereka tak boleh Google untuk sahkan sama ada fakta itu betul atau tak ke?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -312,11 +312,11 @@ n: PUSINGAN KEDUA: *MULA!*
 
 `bb({eyes:"sad"})`
 
-b: Perasan murung kita ni mengacau suasana parti ni lah!
+b: Perasaan murung kita ni mengacau suasana parti inilah!
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Hancur suasana seronok ini! Kita sedang melakukan jenayah penghancur suasana tanpa sedar!
+b: Hancur suasana seronok ni! Kita sedang melakukan jenayah penghancur suasana tanpa sedar!
 
 `bb({eyes:"normal", body:"normal"})`
 
@@ -370,11 +370,11 @@ b: Tengoklah, hukum termodinamik kedua pun membuktikan yang *alam semesta* akan 
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Oh, “kematian membuatkan kita lebih menghargai kehidupan”? Fikiran tu sama seperti kita mengatakan bahawa penghambaan adalah sesuatu yang bagus kerana kita akan lebih menghargai kebebasan kita!
+b: Oh, “kematian buat kita hargai hidup”? Mengarut je! Ibarat hamba abdi tu bagus sebab kita hargai kebebasan!
 
 `bb({body:"one_up"})`
 
-b: Oh, “kita perlu mencari makna hidup”? Itu yang orang kultus dan ahli teori konspirasi katakan!
+b: Oh, “kita perlu mencari makna hidup”? Tu yang orang kultus dan ahli teori konspirasi katakan!
 
 `bb({eyes:"shock", body:"two_up"})`
 
@@ -441,7 +441,7 @@ b: AKU PERLU INGATKAN KAU TENTANG…
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: EMOSI BOLEH BERJANGKIT! JADI, KALAU KAU TIDAK KELUAR DARI SINI, KAU AKAN MENJANGKITI ORANG LAIN DENGAN PENYAKIT MENTAL KAU!
+b: EMOSI BOLEH BERJANGKIT! JADI, KALAU KAU TAK KELUAR DARI SINI, KAU AKAN MENJANGKITI ORANG LAIN DENGAN PENYAKIT MENTAL KAU!
 
 b: Kau akan menjadi penyebab penularan SINDROM KESEDIHAN yang berbahaya
 
@@ -520,7 +520,7 @@ b: yang kemudiannya digunakan dalam Perang Dunia Pertama untuk MEMBUNUH BERJUTA-
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: FENOMENA INI DIPANGGIL SEBAGAI BUTTERFLY EFFECT. KAU SEDAR ATAU TIDAK BERAPA RAMAI ORANG YANG KAU HANCURKAN DENGAN TAK SENGAJA SEKARANG INI?
+b: FENOMENA NI DIPANGGIL SEBAGAI BUTTERFLY EFFECT. KAU SEDAR ATAU TIDAK BERAPA RAMAI ORANG YANG KAU HANCURKAN DENGAN TAK SENGAJA SEKARANG NI?
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -540,7 +540,7 @@ b: Sebenarnya, tahu tak perkara yang lebih teruk daripada kau dibenci orang lain
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
-b: Maksudnya, menjadi mangsa nafsu hiburan manusia-manusia kaki parti *ini*.
+b: Maksudnya, menjadi mangsa nafsu hiburan manusia-manusia kaki parti *ni*.
 
 `bb({body:"normal", mouth:"small"})`
 
@@ -548,7 +548,7 @@ b: Kehidupan yang kosong dengan kawan yang tak bermakna yang hanya mengenali lua
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Manusia, kita perlu lari dari hantu-hantu hiburan ini sebelum mereka menghantui kita!
+b: Manusia, kita perlu lari dari hantu-hantu hiburan ni sebelum mereka menghantui kita!
 
 ```
 _.a2_second_danger = 'zombies';
@@ -568,7 +568,7 @@ b: Ramai yang mati disebabkan kebuluran dan krisis dunia yang berlaku *sekarang*
 
 `bb({body:"point", eyes:"closed", mouth:"small"})`
 
-b: Seseorang yang bijak pernah berkata, “kemenangan bagi kejahatan boleh dicapai apabila orang baik tidak berbuat apa-apa.”
+b: Seseorang yang bijak pernah berkata, “kemenangan bagi kejahatan boleh dicapai apabila orang baik tak berbuat apa-apa.”
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
@@ -683,7 +683,7 @@ b: Kita perlu berpindah ke wilayah Yukon, Kanada dan makanan kita akan dihantar 
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: Dan mereka perlu mensanitasi dron itu untuk menghapuskan KUMAN KESEDIHAN kita
+b: Dan mereka perlu mensanitasi dron tu untuk menghapuskan KUMAN KESEDIHAN kita
 
 `_.a2_attack_3 = "alone";`
 
@@ -718,7 +718,7 @@ sfx("gravel");
 
 b: INDIVIDU SAMPAH YANG MENJIJIKKAN DAN MIANG akan dijatuhkan hukuman selama 72 jam menggunakan salah satu mesin kuno yang memalukan kita di tempat awam
 
-b: melainkan mereka sebenarnya *menyukai* perkara pelik seperti ini
+b: melainkan mereka sebenarnya *menyukai* perkara pelik seperti ni
 
 `bb({body:"scream_a_1"})`
 
@@ -734,7 +734,7 @@ b: sebab mereka ialah ORANG SAMPAH YANG MENJIJIKKAN DAN MIANG
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: BUTTERFLY EFFECT! Kau menggunakan cawan plastik yang tidak boleh terbiodegradasikan?
+b: BUTTERFLY EFFECT! Kau menggunakan cawan plastik yang tak boleh terbiodegradasikan?
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
@@ -758,7 +758,7 @@ b: PANG, KAU MEMUFLISKAN SISTEM PENJAGAAN KESIHATAN KITA DAN BERJUTA-JUTA RAKYAT
 
 `bb({body:"normal", mouth:"small", eyes:"angry"})`
 
-b: Hantu hiburan ini akan terjumpa dan berjalan ke arah kau lalu menggumam,
+b: Hantu hiburan ni akan terjumpa dan berjalan ke arah kau lalu menggumam,
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
@@ -766,7 +766,7 @@ b: SUUUUKAA. SUUUUUUUKAAA.
 
 `bb({body:"scream_a_1"})`
 
-b: Lepas itu mereka akan MENGHANTUI KAU SAMPAI KAU JADI GILA dan atau JADI YANG ORANG TIDAK BETUL!
+b: Lepas tu mereka akan MENGHANTUI KAU SAMPAI KAU JADI GILA dan/atau JADI YANG ORANG TIDAK BETUL!
 
 `_.a2_attack_3 = "bad";`
 
@@ -778,7 +778,7 @@ b: Lepas itu mereka akan MENGHANTUI KAU SAMPAI KAU JADI GILA dan atau JADI YANG 
 
 `bb({body:"scream_a_1"})`
 
-b: ORANG JAHAT SEDANG BERKAWAD DI JALANAN SEKARANG INI
+b: ORANG JAHAT SEDANG BERKAWAD DI JALANAN SEKARANG NI
 
 `bb({body:"one_up", mouth:"smile", eyes:"happy"})`
 
@@ -798,7 +798,7 @@ b: *Sekarang kita boleh teruskan pelan kita!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"})`
 
-b: Hmm, kita tahu atau tak jika bangunan ini *ada* pengesan karbon monoksida?!
+b: Hmm, kita tahu atau tak jika bangunan ni *ada* pengesan karbon monoksida?!
 
 `bb({body:"two_up", mouth:"small", eyes:"normal"})`
 
@@ -818,11 +818,11 @@ b: KITA TAK AKAN PERASAN PUN KALAU KEMATIAN MENANTI KITA. KEHIDUPAN KITA AKAN TA
 
 `bb({body:"normal", mouth:"normal", eyes:"sad"})`
 
-b: Macam mana kalau kita *tidak mampu langsung* untuk disayangi atau menyayangi seseorang?
+b: Macam mana kalau kita *tak mampu langsung* untuk disayangi atau menyayangi seseorang?
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: Macam mana kalau sesuatu telah menyakitkan hati kita suatu masa dahulu? Atau sebenarnya sesuatu itu tidak pernah wujud pun dalam diri kita?
+b: Macam mana kalau sesuatu telah menyakitkan hati kita suatu masa dahulu? Atau sebenarnya sesuatu tu tak pernah wujud pun dalam diri kita?
 
 `bb({body:"scream_a_1"})`
 
@@ -912,13 +912,13 @@ b: Kenapa kau tak hiraukan aku?
 
 `hong({body:"facepalm"})`
 
-h: Ish, kau ini bodohlah.
+h: Ish, kau ni bodohlah.
 
 `hong({body:"facepalm_2"})`
 
 h: Kau tahu tak tentang cerita rakyat Amerika tu?
 
-h: “Ada dua serigala dalam diri kau, seekor akan memberikan kau harapan dan seekor lagi memutuskan harapan kau. Kau tahu tak serigala mana yang akan menang? Jawapannya serigala yang kau berikan lebih perhatian.”
+h: Aku sebenarnya nak biarkan kau sengsara dengan tak memberikan perhatian kepada kau, serigala ^sadis^!
 
 ```
 hong({body:"facepalm_3"});
@@ -939,21 +939,21 @@ h: *Aku disayangi. Aku orang baik. Aku bijak. Aku cantik. Aku istimewa.*
 
 [Kau tahu kan *tak menolong pun* benda yang kau buat tu?](#act2d_disproven)
 
-[Kau ni, jangan main bagi penghargaan kepada orang asli la](#act2d_racist)
+[Kau ni, jangan main bagi penghargaan kepada orang aslilah](#act2d_racist)
 
 # act2d_disproven
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: Sebenarnya, perkara yang kau sedang buat itu akan *menikam diri* orang yang berkeyakinan rendah!
+b: Sebenarnya, perkara yang kau sedang buat tu akan *menikam diri* orang yang berkeyakinan rendah!
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: Kajian ini bagus tahu. Ujian yang dilakukan secara rawak, pengkaji pun tak tahu individu terlibat itu dalam kumpulan mana.
+b: Kajian ni bagus tahu. Ujian yang dilakukan secara rawak, pengkaji pun tak tahu individu terlibat tu dalam kumpulan mana.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
-b: Dapatannya: kalau kau ada keyakinan yang rendah dan kau penuhkan fikiran kau dengan kata-kata positif, kau akan berasa lebih *teruk* berbanding jika kau tidak berkata apa-apa langsung!
+b: Dapatannya: kalau kau ada keyakinan yang rendah dan kau penuhkan fikiran kau dengan kata-kata positif, kau akan berasa lebih *teruk* berbanding jika kau tak berkata apa-apa langsung!
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
@@ -961,7 +961,7 @@ b: Wood 2009, Sains Psikologi. Carilah di Google Scholar wahai manusia,
 
 `bb({body:"scream_b_1"})`
 
-b: AH, BERHENTILAH SEBARKAN BERITA PALSU YANG TIDAK SAINTIFIK!
+b: AH, BERHENTILAH SEBARKAN BERITA PALSU YANG TAK SAINTIFIK!
 
 ```
 hong({body:"attacked"});
@@ -1005,11 +1005,11 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Orang Asli Amerika adalah *manusia* dan bukannya “noble savages” atau “orang primitif” untuk buatkan kau punya nasihat biskut nasib lebih *unik*.
+b: Orang Asli Amerika adalah *manusia* dan bukannya “noble savages” atau “orang primitif” untuk buatkan kau punya biskut nasib lebih *unik*.
 
 `bb({eyes:"suspect_r"})`
 
-b: Kau merendahkan pendirian seseorang dan kebudayaan yang kompleks kepada sesuatu yang bersifat murahan! Itu adalah “rasisme”!
+b: Kau merendahkan pendirian seseorang dan kebudayaan yang kompleks kepada sesuatu yang bersifat murahan! Tu adalah “rasisme”!
 
 `bb({body:"scream_b_1"})`
 
@@ -1031,7 +1031,7 @@ h: ^Alahai^
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: Kau ni kan! Memang *tak rasional* lah.
+h: Kau ni kan! Memang *tak rasional* langsung.
 
 h: Semua orang tahu emosi memang tak rasional! Terutamanya ketakutan!
 
@@ -1041,7 +1041,7 @@ h: Kau memang makhluk tak berguna, macam apendiks atau gigi geraham bongsu aku!
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: ^Ish^ Metafora serigala ni mengarut je! Kau hanya lah tindak balas kimia dalam otak aku.
+h: ^Ish^ metafora serigala ni mengarut je! Kau hanyalah tindak balas kimia dalam otak aku.
 
 `hong({body:"cross", mouth:"cross"})`
 
@@ -1051,9 +1051,9 @@ h: Jadi, kenapa aku kena dengar cakap ^binatang^ yang tak rasional dan tak wujud
 
 b: ...
 
-[Aduhai, manusia. Terguris hati aku.](#act2e_hurtful)
+[Aduh! Terguris hati aku.](#act2e_hurtful)
 
-[Aku adalah perasaan. Perasaan itu wajar.](#act2e_valid)
+[Aku adalah perasaan. Perasaan tu wajar.](#act2e_valid)
 
 [Manusia, kita *berdua* “hanya bahan kimia.”](#act2e_rational)
 
@@ -1082,7 +1082,7 @@ attack("10p", "harm");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"});`
 
-b: Motivasi kau adalah dopamin dan kegembiraan kau adalah serotonin.
+b: Motivasi kau ialah dopamin dan kegembiraan kau ialah serotonin.
 
 `bb({body:"one_up"});`
 
@@ -1123,7 +1123,7 @@ b: Tapi “mereka” juga kata emosi tu tak rasional dan tak boleh dipercayai.
 
 `bb({eyes:"angry"});`
 
-b: Cis, “mereka” tipu kita selama ini!
+b: Cis, “mereka” tipu kita selama ni!
 
 `bb({body:"scream_a_1"})`
 
@@ -1232,7 +1232,7 @@ publish("act2",["party_hunter",4]);
 publish("act2",["party_hong",14]);
 ```
 
-r: Hm, kau macam menggumam sesuatu pada baju kau pasal {{_.a2_hoodie_callback}} atau..?
+r: Hm, kau macam menggumam sesuatu pada baju kau pasal  {{_.a2_hoodie_callback}} atau..?
 
 ```
 publish("act2",["party_hunter",13]);
@@ -1256,7 +1256,7 @@ publish("act2",["party_hong",18]);
 sfx("squeak");
 ```
 
-r: Kau tak keseorangan. Keresahan itu benda biasa.
+r: Kau tak keseorangan. Keresahan tu benda biasa.
 
 ```
 publish("act2",["party_hunter",5]);
@@ -1275,13 +1275,13 @@ r: Tahu tak, semalam aku dengar ada orang meringkuk macam armadilo dan menangis 
 publish("act2",["party_hunter",2]);
 ```
 
-r: Dengar ni: aku tahu macam mana kau rasa apabila ada haiwan tu dalam kepala.
+r: Dengar ni: aku tahu macam mana kau rasa apabila ada binatang tu dalam kepala.
 
 ```
 publish("act2",["party_hunter",8]);
 ```
 
-r: Kita *semua* ada haiwan tu dalam kepala kita. Sebab itulah aku adakan parti setiap minggu. Untuk lupakan kerisauan kita, bebas daripada haiwan tu.
+r: Kita *semua* ada binatang tu dalam kepala kita. Sebab itulah aku adakan parti setiap minggu. Untuk lupakan kerisauan kita, bebas daripada binatang tu.
 
 ```
 publish("act2",["party_hunter",9]);
@@ -1295,7 +1295,7 @@ publish("act2",["party_hunter",2]);
 publish("act2",["party_hong",21]);
 ```
 
-r: Jangan risau lah. Aku pernah rasa macam kau. Tapi aku dah jumpa cara untuk melenyapkan suara negatif tu untuk selamanya.
+r: Jangan risaulah. Aku pernah rasa macam kau. Tapi aku dah jumpa cara untuk melenyapkan suara negatif tu untuk selamanya.
 
 ```
 publish("act2",["party_hunter",3]);
@@ -1386,20 +1386,20 @@ bb({body:"frazzled", mouth:"frazzled", eyes:"frazzled"});
 
 h: Hmm, cita rasa yang menarik!
 
-h: Gabungan perisa yang membuatkan minda kau kosong sehingga kau tak dapat rasa apa-apa lagi!
+h: Gabungan perisa yang membuatkan minda kau kosong sehingga tak dapat rasa apa-apa lagi!
 
 b: Kau tak boleh buat macam ni, manusia!
 
-[*Macam ni lah* ketagihan bermula](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
+[*Macam inilah* ketagihan bermula](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Saya *dah agak* tuan rumah ini tak betul!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
+[Saya *dah agak* tuan rumah ni tak betul!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Mungkin mereka letakkan sesuatu dalam minuman itu!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
+[Mungkin mereka letakkan sesuatu dalam minuman tu!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
 
 
 # act2h_opt1
 
-b: *Macam ni lah*–
+b: *Macam inilah*–
 
 (#act2h)
 
@@ -1527,7 +1527,7 @@ n: *HANCURKAN MEREKA*
 
 [{LAWAN: Tumbuk tuan rumah.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{LARI: Jom tinggalkan tempat ini.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{LARI: Jom tinggalkan tempat ni.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2j_fight
 
@@ -1630,7 +1630,7 @@ publish("act2",["dum",5]);
 music('party1', {volume:0.6, fade:6});
 ```
 
-r: Kau *aneh*
+r: Kau ni *peliklah*
 
 r: Aku suka kau. Datanglah lagi minggu depan, si comel.
 
@@ -1645,7 +1645,7 @@ r: Mungkin binatang tu menang hari ni. Kalau kau datang lagi, aku buatkan minuma
 
 h2: sayōnara, auf wiedersehen, zài jiàn, shalom
 
-r: Kita berdua akan tunjukkan kepada binatang itu siapa ketua!
+r: Kita berdua akan tunjukkan kepada binatang tu siapa ketua!
 
 (#act2k_end)
 
@@ -1665,11 +1665,11 @@ h2: bukan, bukan. Aku kena lari maraton. Pergi dulu.
 
 `publish("act2",["party_hunter",19]);`
 
-r: Datanglah lagi minggu depan, si comel. Kalau kau datang lagi, aku buatkan minuman yang lagi kuat. Aku akan bancuhkan minuman yang lagi keras.
+r:  Datanglah lagi minggu depan, si comel. Kalau kau datang lagi, aku akan bancuhkan minuman yang lagi keras.
 
 h2: baik terima kasih aku perlu pergi sekarang!!
 
-r: Kita berdua akan tunjukkan kepada binatang itu siapa ketua!
+r: Kita berdua akan tunjukkan kepada binatang tu siapa ketua!
 
 (#act2k_end)
 

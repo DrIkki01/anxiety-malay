@@ -94,9 +94,9 @@ n: CEPAT, BERI AMARAN TENTANG *BAHAYA* ITU!
 bb({eyes:"look"});
 ```
 
-[Eh, tengok berita buruk itu!](#act1d_news)
+[Eh, tengok berita buruk tu!](#act1d_news)
 
-[Alamak, adakah ciapan itu sebenarnya tentang *kita?*](#act1d_subtweet)
+[Alamak, adakah ciapan tu sebenarnya tentang *kita?*](#act1d_subtweet)
 
 [Eh, GIF kucing minum susu!](#act1d_milk)
 

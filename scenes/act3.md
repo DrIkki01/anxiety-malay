@@ -44,7 +44,7 @@ publish("act3",["roofhunter",8]);
 publish("act3",["roofhong",5]);
 ```
 
-r: Kau mengingatkan aku pada diriku yang dahulu. Masa aku diseksa oleh binatang dalam kepala aku.
+r: Kau mengingatkan aku pada diri aku yang dahulu. Masa aku diseksa oleh binatang dalam kepala aku.
 
 ```
 publish("act3",["roofhunter",9]);
@@ -95,7 +95,7 @@ publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",8]);
 ```
 
-r: Jump in.
+r: Terjunlah.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -156,7 +156,7 @@ publish("act3",["roofhunter",6]);
 publish("act3",["dd",1]);
 ```
 
-r: Jangan kata kau percaya propaganda buku McMindfulness yang berpendapat perasaan bersalah itu sebenarnya *bagus*.
+r: Jangan kata kau percaya propaganda buku McMindfulness yang berpendapat perasaan bersalah tu sebenarnya *bagus*.
 
 ```
 publish("act3",["roofhunter",17]);
@@ -168,13 +168,13 @@ r: Orang-orang ^tak guna^ yang memerintah dunia ni buatkan *kita semua* resah da
 publish("act3",["roofhunter",18]);
 ```
 
-r: Lepas tu, mereka bagi ceramah yang menyuruh kita “menerima” diri *dilanyak* oleh iblis yang sadistik dalam kepala kita itu!
+r: Lepas tu, mereka bagi ceramah yang menyuruh kita “menerima” diri *dilanyak* oleh iblis yang sadistik dalam kepala kita tu!
 
 ```
 publish("act3",["roofhunter",6]);
 ```
 
-r: Aku tahu *kau* sedar yang binatang itu *menyakitkan* dan *menyeksa* orang seperti kita.
+r:  Aku tahu *kau* sedar yang binatang tu *menyakitkan* dan *menyeksa* orang seperti kita.
 
 ```
 publish("act3",["roofhunter",19]);
@@ -219,7 +219,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: Macam tu lah! Aku percaya kau boleh! Bunuh dia! <3
+r: Macam itulah! Aku percaya kau boleh! Bunuh dia!<3
 
 (#act3a)
 
@@ -242,7 +242,7 @@ publish("hp_show");
 
 b: jangan jangan jangan jangan jangan
 
-n: BAB INI MEMPUNYAI DUA PENGAKHIRAN. SALAH SATUNYA ADALAH *SANGAT, SANGAT TRAGIS*
+n: BAB NI MEMPUNYAI DUA PENGAKHIRAN. SALAH SATUNYA ADALAH *SANGAT, SANGAT TRAGIS*
 
 b: JANGAN JANGAN JANGAN JANGAN JANGAN JANGAN JANGAN
 
@@ -263,7 +263,7 @@ bb({ eyes:"start" });
 
 [Manusia, kau boleh MATI kat sini tahu!](#act3a_harm) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Ini tindakan yang bodoh dan membahayakan!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
+[Ni tindakan yang bodoh dan membahayakan!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
 
 [Orang-orang tak siuman ni bukan kawan kau!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
 
@@ -360,7 +360,7 @@ b: manusia, tolonglah..
 
 `hong({ eyes:"look_right" });`
 
-h: Oh, *maaf*lah, syarikat farmaseutikal tak suka cara aku rawat diri sendiri.
+h: Oh, *maaflah*, syarikat farmaseutikal tak suka cara aku rawat diri sendiri.
 
 h: Kau dengar sini, *tak guna*. Kami *semua* ada cara untuk senyapkan binatang macam kau!
 
@@ -382,7 +382,7 @@ h: Kalau aku pula, aku akan terjun ke dalam kolam renang tu.
 
 [Kau dah mabuk! KOLAM TU 6 TINGKAT DARI SINI](#act3_bad_1_harm)
 
-[Kau dah mabuk! KOLAM TU 6 TINGKAT DARI SINI](#act3_bad_1_insult) `bb({eyes:"angry"});`
+[Cis, ni cara kau berterima kasih dekat aku?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
 [Baiklah, aku mengaku. Aku salah.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
@@ -622,7 +622,7 @@ h: *"Hati tenang, hidup senang!"*
 
 `hong({ body:"normal", mouth:"normal", eyes:"normal" });`
 
-h: Semua sarjana pada masa kini setuju bahawa emosi bersifat negatif adalah *tidak baik!*
+h:  Semua sarjana pada masa kini setuju bahawa emosi bersifat negatif ialah *tak baik!*
 
 `hong({ eyes:"less_angry" });`
 
@@ -730,7 +730,7 @@ b: Tugas aku adalah untuk jaga kau dari ancaman *sebenar*. Tapi aku asyik memper
 
 `bb({eyes:"sorry_up"});`
 
-b: Tak rasional… macam-macam lah.
+b: Tak rasional… macam-macamlah.
 
 `bb({eyes:"sorry"});`
 
@@ -885,7 +885,7 @@ publish("act3",["roofhunter",27]);
 
 `Game.FORCE_CANT_SKIP = false;`
 
-r: *Serius lah*? Selepas segala perbuatan yang serigala tu lakukan, kau akan *mengalah* begitu je?
+r: *Seriuslah*? Selepas segala perbuatan yang serigala tu lakukan, kau akan *mengalah* begitu je?
 
 r: Kenapa? Kau *takut* ke?
 

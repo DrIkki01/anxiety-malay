@@ -22,7 +22,7 @@ i: #harm# *DISAKITI* {{_.INTERMISSION_STAGE==1 ? _.attack_harm_ch1 : _.attack_ha
 
 i: #alone# *TIDAK DISAYANGI* {{_.INTERMISSION_STAGE==1 ? _.attack_alone_ch1 : _.attack_alone_ch2}}
 
-i: #bad# *MENJADI ORANG YANG JAHAT* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
+i: #bad# *JADI ORANG YANG JAHAT* {{_.INTERMISSION_STAGE==1 ? _.attack_bad_ch1 : _.attack_bad_ch2}}
 
 
 ```
@@ -31,7 +31,7 @@ Game.FORCE_CANT_SKIP = false;
 Game.CLICK_TO_ADVANCE = true;
 ```
 
-n5: (permainan disimpan secara automatik! boleh keluar dan sambung semula nanti)
+n5: (Permainan disimpan secara automatik! Anda boleh keluar dan sambung semula nanti)
 
 ```
 Game.clearAll();
